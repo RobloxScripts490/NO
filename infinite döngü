@@ -1,5 +1,5 @@
 _G.UserScript = function()
-    print("Test") --your script/hub here
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/RobloxScripts490/NO/refs/heads/main/infinite%20d%C3%B6ng%C3%BC"))() --your script/hub here
 end
 _G.huborscriptname = "Hub/Script name" -- Hub/Script name
 _G.CREDIT = "Credit" --put your credit 
